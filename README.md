@@ -2,4 +2,4 @@
 
 100 days of code tutorials, html - css - js
 
-currently working on flex.
+currently working on flex., day 17.
